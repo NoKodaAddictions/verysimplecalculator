@@ -29,7 +29,7 @@ void calc(double arg1, double arg2, char op)
   }
 }
 
-int main3()
+int main()
 {
   double arg1;
   double arg2;
